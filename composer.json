@@ -1,0 +1,5 @@
+{
+    "require": {
+        "myxtype/ethereum-client": "dev-master"
+    }
+}
